@@ -1,17 +1,20 @@
 @font-face {
   font-family: "Gotham Pro";
   src: url("../fonts/GothaProLig.woff") format("woff");
-  font-weight: normal;
+  font-style: normal;
+  font-weight: 300;
 }
 @font-face {
   font-family: "Gotham Pro";
   src: url("../fonts/GothaProBol.woff") format("woff");
-  font-weight: bold;
+  font-style: normal;
+  font-weight: 700;
 }
 @font-face {
   font-family: "Gotham Pro";
   src: url("../fonts/GothaProLigIta.woff") format("woff");
-  font-weight: italic;
+  font-style: normal;
+  font-weight: 300;
 }
 
 h1 {
