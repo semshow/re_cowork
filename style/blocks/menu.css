@@ -83,3 +83,28 @@
 .menu__link--pink {
   color: #ec1e79; 
 }
+
+.menu__comments, .menu__prices {
+  margin-bottom: 35px;
+}
+
+.menu__link--commentspage:before {
+  width: 20px;
+  height: 18px;
+  background: url(../../img/feed_icon_pink.png) no-repeat;
+}
+
+.menu__link--pricespage:before {
+  width: 19px;
+  height: 16px;
+  background: url(../../img/wallet_icon_pink.png) no-repeat;
+}
+
+.menu__link--commentspage:hover {
+  color: #221f1f;
+}
+
+.menu__link--pricespage:hover {
+  color: #221f1f;
+}
+
